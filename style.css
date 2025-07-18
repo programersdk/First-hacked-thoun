@@ -1,0 +1,16 @@
+*{
+    text-transform: capitalize;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.mian{
+    display: flex;
+}
